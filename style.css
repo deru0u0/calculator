@@ -64,9 +64,7 @@ main { width: 100%; }
     font-weight: bold;
     margin: 0.35rem;
     box-shadow: 0 0 0.5rem orange;
-}
-.btn:hover {
-    box-shadow: 0 0 0 #222;
+    cursor: pointer;
 }
 .sign {
     background: #fb5800;
